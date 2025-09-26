@@ -39,10 +39,9 @@ To run this project, you will need to have the following libraries installed:
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/painting-with-gan.git](https://github.com/your-username/painting-with-gan.git)
+    git clone https://github.com/RiyaPandita/PAINTING-WITH-GAN/tree/main
     cd painting-with-gan
     ```
-    (Replace `your-username` with your actual GitHub username.)
 
 2.  **Install the required libraries:**
     It is recommended to create a virtual environment to manage dependencies.
